@@ -1,0 +1,34 @@
+icewm-themes-extras-antix (0.1.5) unstable; urgency=low
+
+  * Packaged using dpkg-buildpackage.
+  * xz compressed deb.
+
+ -- anticapitalista <antiX@operamail.com>  Thu, 24 Oct 2013 19:45:00 +0200
+
+
+icewm-themes-extras-antix (0.1.4) unstable; urgency=low
+
+  * Fixed ownership bug.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 26 August 2012 15:40:00 +0200
+
+icewm-themes-extras-antix (0.1.3) unstable; urgency=low
+ 
+  * Added copyright notice.
+
+ -- anticapitalista <antiX@operamail.com> Mon, 16 July 2012 15:30:00 +0200
+
+
+icewm-themes-extras-antix (0.1.2) unstable; urgency=low 
+ 
+  * Removed conflicting themes with icewm-themes.
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 14 March 2012 14:30:00 +0200
+
+
+icewm-themes-extras-antix (0.1.1) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 16 January 2012 12:30:00 +0200
+
